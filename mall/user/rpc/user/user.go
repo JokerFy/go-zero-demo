@@ -6,7 +6,7 @@ package user
 import (
 	"context"
 
-	"micro-project-demo/mall/user/rpc/types/rpc"
+	"micro-project-mall/user/rpc/types/rpc"
 
 	"github.com/zeromicro/go-zero/zrpc"
 	"google.golang.org/grpc"

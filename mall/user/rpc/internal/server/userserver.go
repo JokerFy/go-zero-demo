@@ -6,9 +6,9 @@ package server
 import (
 	"context"
 
-	"micro-project-demo/mall/user/rpc/internal/logic"
-	"micro-project-demo/mall/user/rpc/internal/svc"
-	"micro-project-demo/mall/user/rpc/types/rpc"
+	"micro-project-mall/user/rpc/internal/logic"
+	"micro-project-mall/user/rpc/internal/svc"
+	"micro-project-mall/user/rpc/types/rpc"
 )
 
 type UserServer struct {

@@ -1,6 +1,6 @@
 package svc
 
-import "micro-project-demo/mall/user/rpc/internal/config"
+import "micro-project-mall/user/rpc/internal/config"
 
 type ServiceContext struct {
 	Config config.Config

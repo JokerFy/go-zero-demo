@@ -2,10 +2,10 @@ package logic
 
 import (
 	"context"
-	"micro-project-demo/mall/user/rpc/user"
+	"micro-project-mall/user/rpc/user"
 
 	"github.com/zeromicro/go-zero/core/logx"
-	"micro-project-demo/mall/user/rpc/internal/svc"
+	"micro-project-mall/user/rpc/internal/svc"
 )
 
 type GetUserLogic struct {

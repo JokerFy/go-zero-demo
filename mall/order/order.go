@@ -4,9 +4,9 @@ import (
 	"flag"
 	"fmt"
 
-	"micro-project-demo/mall/order/internal/config"
-	"micro-project-demo/mall/order/internal/handler"
-	"micro-project-demo/mall/order/internal/svc"
+	"micro-project-mall/order/internal/config"
+	"micro-project-mall/order/internal/handler"
+	"micro-project-mall/order/internal/svc"
 
 	"github.com/zeromicro/go-zero/core/conf"
 	"github.com/zeromicro/go-zero/rest"

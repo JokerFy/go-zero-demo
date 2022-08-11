@@ -4,10 +4,10 @@ import (
 	"flag"
 	"fmt"
 
-	"micro-project-demo/mall/user/rpc/internal/config"
-	"micro-project-demo/mall/user/rpc/internal/server"
-	"micro-project-demo/mall/user/rpc/internal/svc"
-	"micro-project-demo/mall/user/rpc/types/rpc"
+	"micro-project-mall/user/rpc/internal/config"
+	"micro-project-mall/user/rpc/internal/server"
+	"micro-project-mall/user/rpc/internal/svc"
+	"micro-project-mall/user/rpc/types/rpc"
 
 	"github.com/zeromicro/go-zero/core/conf"
 	"github.com/zeromicro/go-zero/core/service"
