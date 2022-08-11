@@ -1,0 +1,2 @@
+pm2 -n user_rpc_service -l ./user/user_rpc_service.log -o /dev/null -e /dev/null --merge-logs start  go -- run ./user/rpc/user.go -f ./user/rpc/etc/user.yaml
+pm2 -n order_api_service -l ./order/order_api_service.log -o /dev/null -e /dev/null --merge-logs start  go -- run ./order/order.go -f ./order/etc/order.yaml

@@ -1,0 +1,1 @@
+FROM kopeio/etcd-manager

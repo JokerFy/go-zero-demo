@@ -1,0 +1,868 @@
+Go is a tool for managing Go source code.
+
+Usage:
+
+	go <command> [arguments]
+
+The commands are:
+
+	bug         start a bug report
+	build       compile packages and dependencies
+	clean       remove object files and cached files
+	doc         show documentation for package or symbol
+	env         print Go environment information
+	fix         update packages to use new APIs
+	fmt         gofmt (reformat) package sources
+	generate    generate Go files by processing source
+	get         add dependencies to current module and install them
+	install     compile and install packages and dependencies
+	list        list packages or modules
+	mod         module maintenance
+	work        workspace maintenance
+	run         compile and run Go program
+	test        test packages
+	tool        run specified go tool
+	version     print Go version
+	vet         report likely mistakes in packages
+
+Use "go help <command>" for more information about a command.
+
+Additional help topics:
+
+	buildconstraint build constraints
+	buildmode       build modes
+	c               calling between Go and C
+	cache           build and test caching
+	environment     environment variables
+	filetype        file types
+	go.mod          the go.mod file
+	gopath          GOPATH environment variable
+	gopath-get      legacy GOPATH go get
+	goproxy         module proxy protocol
+	importpath      import path syntax
+	modules         modules, module versions, and more
+	module-get      module-aware go get
+	module-auth     module authentication using go.sum
+	packages        package lists and patterns
+	private         configuration for downloading non-public code
+	testflag        testing flags
+	testfunc        testing functions
+	vcs             controlling version control with GOVCS
+
+Use "go help <topic>" for more information about that topic.
+
+Go is a tool for managing Go source code.
+
+Usage:
+
+	go <command> [arguments]
+
+The commands are:
+
+	bug         start a bug report
+	build       compile packages and dependencies
+	clean       remove object files and cached files
+	doc         show documentation for package or symbol
+	env         print Go environment information
+	fix         update packages to use new APIs
+	fmt         gofmt (reformat) package sources
+	generate    generate Go files by processing source
+	get         add dependencies to current module and install them
+	install     compile and install packages and dependencies
+	list        list packages or modules
+	mod         module maintenance
+	work        workspace maintenance
+	run         compile and run Go program
+	test        test packages
+	tool        run specified go tool
+	version     print Go version
+	vet         report likely mistakes in packages
+
+Use "go help <command>" for more information about a command.
+
+Additional help topics:
+
+	buildconstraint build constraints
+	buildmode       build modes
+	c               calling between Go and C
+	cache           build and test caching
+	environment     environment variables
+	filetype        file types
+	go.mod          the go.mod file
+	gopath          GOPATH environment variable
+	gopath-get      legacy GOPATH go get
+	goproxy         module proxy protocol
+	importpath      import path syntax
+	modules         modules, module versions, and more
+	module-get      module-aware go get
+	module-auth     module authentication using go.sum
+	packages        package lists and patterns
+	private         configuration for downloading non-public code
+	testflag        testing flags
+	testfunc        testing functions
+	vcs             controlling version control with GOVCS
+
+Use "go help <topic>" for more information about that topic.
+
+Go is a tool for managing Go source code.
+
+Usage:
+
+	go <command> [arguments]
+
+The commands are:
+
+	bug         start a bug report
+	build       compile packages and dependencies
+	clean       remove object files and cached files
+	doc         show documentation for package or symbol
+	env         print Go environment information
+	fix         update packages to use new APIs
+	fmt         gofmt (reformat) package sources
+	generate    generate Go files by processing source
+	get         add dependencies to current module and install them
+	install     compile and install packages and dependencies
+	list        list packages or modules
+	mod         module maintenance
+	work        workspace maintenance
+	run         compile and run Go program
+	test        test packages
+	tool        run specified go tool
+	version     print Go version
+	vet         report likely mistakes in packages
+
+Use "go help <command>" for more information about a command.
+
+Additional help topics:
+
+	buildconstraint build constraints
+	buildmode       build modes
+	c               calling between Go and C
+	cache           build and test caching
+	environment     environment variables
+	filetype        file types
+	go.mod          the go.mod file
+	gopath          GOPATH environment variable
+	gopath-get      legacy GOPATH go get
+	goproxy         module proxy protocol
+	importpath      import path syntax
+	modules         modules, module versions, and more
+	module-get      module-aware go get
+	module-auth     module authentication using go.sum
+	packages        package lists and patterns
+	private         configuration for downloading non-public code
+	testflag        testing flags
+	testfunc        testing functions
+	vcs             controlling version control with GOVCS
+
+Use "go help <topic>" for more information about that topic.
+
+Go is a tool for managing Go source code.
+
+Usage:
+
+	go <command> [arguments]
+
+The commands are:
+
+	bug         start a bug report
+	build       compile packages and dependencies
+	clean       remove object files and cached files
+	doc         show documentation for package or symbol
+	env         print Go environment information
+	fix         update packages to use new APIs
+	fmt         gofmt (reformat) package sources
+	generate    generate Go files by processing source
+	get         add dependencies to current module and install them
+	install     compile and install packages and dependencies
+	list        list packages or modules
+	mod         module maintenance
+	work        workspace maintenance
+	run         compile and run Go program
+	test        test packages
+	tool        run specified go tool
+	version     print Go version
+	vet         report likely mistakes in packages
+
+Use "go help <command>" for more information about a command.
+
+Additional help topics:
+
+	buildconstraint build constraints
+	buildmode       build modes
+	c               calling between Go and C
+	cache           build and test caching
+	environment     environment variables
+	filetype        file types
+	go.mod          the go.mod file
+	gopath          GOPATH environment variable
+	gopath-get      legacy GOPATH go get
+	goproxy         module proxy protocol
+	importpath      import path syntax
+	modules         modules, module versions, and more
+	module-get      module-aware go get
+	module-auth     module authentication using go.sum
+	packages        package lists and patterns
+	private         configuration for downloading non-public code
+	testflag        testing flags
+	testfunc        testing functions
+	vcs             controlling version control with GOVCS
+
+Use "go help <topic>" for more information about that topic.
+
+Go is a tool for managing Go source code.
+
+Usage:
+
+	go <command> [arguments]
+
+The commands are:
+
+	bug         start a bug report
+	build       compile packages and dependencies
+	clean       remove object files and cached files
+	doc         show documentation for package or symbol
+	env         print Go environment information
+	fix         update packages to use new APIs
+	fmt         gofmt (reformat) package sources
+	generate    generate Go files by processing source
+	get         add dependencies to current module and install them
+	install     compile and install packages and dependencies
+	list        list packages or modules
+	mod         module maintenance
+	work        workspace maintenance
+	run         compile and run Go program
+	test        test packages
+	tool        run specified go tool
+	version     print Go version
+	vet         report likely mistakes in packages
+
+Use "go help <command>" for more information about a command.
+
+Additional help topics:
+
+	buildconstraint build constraints
+	buildmode       build modes
+	c               calling between Go and C
+	cache           build and test caching
+	environment     environment variables
+	filetype        file types
+	go.mod          the go.mod file
+	gopath          GOPATH environment variable
+	gopath-get      legacy GOPATH go get
+	goproxy         module proxy protocol
+	importpath      import path syntax
+	modules         modules, module versions, and more
+	module-get      module-aware go get
+	module-auth     module authentication using go.sum
+	packages        package lists and patterns
+	private         configuration for downloading non-public code
+	testflag        testing flags
+	testfunc        testing functions
+	vcs             controlling version control with GOVCS
+
+Use "go help <topic>" for more information about that topic.
+
+Go is a tool for managing Go source code.
+
+Usage:
+
+	go <command> [arguments]
+
+The commands are:
+
+	bug         start a bug report
+	build       compile packages and dependencies
+	clean       remove object files and cached files
+	doc         show documentation for package or symbol
+	env         print Go environment information
+	fix         update packages to use new APIs
+	fmt         gofmt (reformat) package sources
+	generate    generate Go files by processing source
+	get         add dependencies to current module and install them
+	install     compile and install packages and dependencies
+	list        list packages or modules
+	mod         module maintenance
+	work        workspace maintenance
+	run         compile and run Go program
+	test        test packages
+	tool        run specified go tool
+	version     print Go version
+	vet         report likely mistakes in packages
+
+Use "go help <command>" for more information about a command.
+
+Additional help topics:
+
+	buildconstraint build constraints
+	buildmode       build modes
+	c               calling between Go and C
+	cache           build and test caching
+	environment     environment variables
+	filetype        file types
+	go.mod          the go.mod file
+	gopath          GOPATH environment variable
+	gopath-get      legacy GOPATH go get
+	goproxy         module proxy protocol
+	importpath      import path syntax
+	modules         modules, module versions, and more
+	module-get      module-aware go get
+	module-auth     module authentication using go.sum
+	packages        package lists and patterns
+	private         configuration for downloading non-public code
+	testflag        testing flags
+	testfunc        testing functions
+	vcs             controlling version control with GOVCS
+
+Use "go help <topic>" for more information about that topic.
+
+Go is a tool for managing Go source code.
+
+Usage:
+
+	go <command> [arguments]
+
+The commands are:
+
+	bug         start a bug report
+	build       compile packages and dependencies
+	clean       remove object files and cached files
+	doc         show documentation for package or symbol
+	env         print Go environment information
+	fix         update packages to use new APIs
+	fmt         gofmt (reformat) package sources
+	generate    generate Go files by processing source
+	get         add dependencies to current module and install them
+	install     compile and install packages and dependencies
+	list        list packages or modules
+	mod         module maintenance
+	work        workspace maintenance
+	run         compile and run Go program
+	test        test packages
+	tool        run specified go tool
+	version     print Go version
+	vet         report likely mistakes in packages
+
+Use "go help <command>" for more information about a command.
+
+Additional help topics:
+
+	buildconstraint build constraints
+	buildmode       build modes
+	c               calling between Go and C
+	cache           build and test caching
+	environment     environment variables
+	filetype        file types
+	go.mod          the go.mod file
+	gopath          GOPATH environment variable
+	gopath-get      legacy GOPATH go get
+	goproxy         module proxy protocol
+	importpath      import path syntax
+	modules         modules, module versions, and more
+	module-get      module-aware go get
+	module-auth     module authentication using go.sum
+	packages        package lists and patterns
+	private         configuration for downloading non-public code
+	testflag        testing flags
+	testfunc        testing functions
+	vcs             controlling version control with GOVCS
+
+Use "go help <topic>" for more information about that topic.
+
+Go is a tool for managing Go source code.
+
+Usage:
+
+	go <command> [arguments]
+
+The commands are:
+
+	bug         start a bug report
+	build       compile packages and dependencies
+	clean       remove object files and cached files
+	doc         show documentation for package or symbol
+	env         print Go environment information
+	fix         update packages to use new APIs
+	fmt         gofmt (reformat) package sources
+	generate    generate Go files by processing source
+	get         add dependencies to current module and install them
+	install     compile and install packages and dependencies
+	list        list packages or modules
+	mod         module maintenance
+	work        workspace maintenance
+	run         compile and run Go program
+	test        test packages
+	tool        run specified go tool
+	version     print Go version
+	vet         report likely mistakes in packages
+
+Use "go help <command>" for more information about a command.
+
+Additional help topics:
+
+	buildconstraint build constraints
+	buildmode       build modes
+	c               calling between Go and C
+	cache           build and test caching
+	environment     environment variables
+	filetype        file types
+	go.mod          the go.mod file
+	gopath          GOPATH environment variable
+	gopath-get      legacy GOPATH go get
+	goproxy         module proxy protocol
+	importpath      import path syntax
+	modules         modules, module versions, and more
+	module-get      module-aware go get
+	module-auth     module authentication using go.sum
+	packages        package lists and patterns
+	private         configuration for downloading non-public code
+	testflag        testing flags
+	testfunc        testing functions
+	vcs             controlling version control with GOVCS
+
+Use "go help <topic>" for more information about that topic.
+
+Go is a tool for managing Go source code.
+
+Usage:
+
+	go <command> [arguments]
+
+The commands are:
+
+	bug         start a bug report
+	build       compile packages and dependencies
+	clean       remove object files and cached files
+	doc         show documentation for package or symbol
+	env         print Go environment information
+	fix         update packages to use new APIs
+	fmt         gofmt (reformat) package sources
+	generate    generate Go files by processing source
+	get         add dependencies to current module and install them
+	install     compile and install packages and dependencies
+	list        list packages or modules
+	mod         module maintenance
+	work        workspace maintenance
+	run         compile and run Go program
+	test        test packages
+	tool        run specified go tool
+	version     print Go version
+	vet         report likely mistakes in packages
+
+Use "go help <command>" for more information about a command.
+
+Additional help topics:
+
+	buildconstraint build constraints
+	buildmode       build modes
+	c               calling between Go and C
+	cache           build and test caching
+	environment     environment variables
+	filetype        file types
+	go.mod          the go.mod file
+	gopath          GOPATH environment variable
+	gopath-get      legacy GOPATH go get
+	goproxy         module proxy protocol
+	importpath      import path syntax
+	modules         modules, module versions, and more
+	module-get      module-aware go get
+	module-auth     module authentication using go.sum
+	packages        package lists and patterns
+	private         configuration for downloading non-public code
+	testflag        testing flags
+	testfunc        testing functions
+	vcs             controlling version control with GOVCS
+
+Use "go help <topic>" for more information about that topic.
+
+Go is a tool for managing Go source code.
+
+Usage:
+
+	go <command> [arguments]
+
+The commands are:
+
+	bug         start a bug report
+	build       compile packages and dependencies
+	clean       remove object files and cached files
+	doc         show documentation for package or symbol
+	env         print Go environment information
+	fix         update packages to use new APIs
+	fmt         gofmt (reformat) package sources
+	generate    generate Go files by processing source
+	get         add dependencies to current module and install them
+	install     compile and install packages and dependencies
+	list        list packages or modules
+	mod         module maintenance
+	work        workspace maintenance
+	run         compile and run Go program
+	test        test packages
+	tool        run specified go tool
+	version     print Go version
+	vet         report likely mistakes in packages
+
+Use "go help <command>" for more information about a command.
+
+Additional help topics:
+
+	buildconstraint build constraints
+	buildmode       build modes
+	c               calling between Go and C
+	cache           build and test caching
+	environment     environment variables
+	filetype        file types
+	go.mod          the go.mod file
+	gopath          GOPATH environment variable
+	gopath-get      legacy GOPATH go get
+	goproxy         module proxy protocol
+	importpath      import path syntax
+	modules         modules, module versions, and more
+	module-get      module-aware go get
+	module-auth     module authentication using go.sum
+	packages        package lists and patterns
+	private         configuration for downloading non-public code
+	testflag        testing flags
+	testfunc        testing functions
+	vcs             controlling version control with GOVCS
+
+Use "go help <topic>" for more information about that topic.
+
+Go is a tool for managing Go source code.
+
+Usage:
+
+	go <command> [arguments]
+
+The commands are:
+
+	bug         start a bug report
+	build       compile packages and dependencies
+	clean       remove object files and cached files
+	doc         show documentation for package or symbol
+	env         print Go environment information
+	fix         update packages to use new APIs
+	fmt         gofmt (reformat) package sources
+	generate    generate Go files by processing source
+	get         add dependencies to current module and install them
+	install     compile and install packages and dependencies
+	list        list packages or modules
+	mod         module maintenance
+	work        workspace maintenance
+	run         compile and run Go program
+	test        test packages
+	tool        run specified go tool
+	version     print Go version
+	vet         report likely mistakes in packages
+
+Use "go help <command>" for more information about a command.
+
+Additional help topics:
+
+	buildconstraint build constraints
+	buildmode       build modes
+	c               calling between Go and C
+	cache           build and test caching
+	environment     environment variables
+	filetype        file types
+	go.mod          the go.mod file
+	gopath          GOPATH environment variable
+	gopath-get      legacy GOPATH go get
+	goproxy         module proxy protocol
+	importpath      import path syntax
+	modules         modules, module versions, and more
+	module-get      module-aware go get
+	module-auth     module authentication using go.sum
+	packages        package lists and patterns
+	private         configuration for downloading non-public code
+	testflag        testing flags
+	testfunc        testing functions
+	vcs             controlling version control with GOVCS
+
+Use "go help <topic>" for more information about that topic.
+
+Go is a tool for managing Go source code.
+
+Usage:
+
+	go <command> [arguments]
+
+The commands are:
+
+	bug         start a bug report
+	build       compile packages and dependencies
+	clean       remove object files and cached files
+	doc         show documentation for package or symbol
+	env         print Go environment information
+	fix         update packages to use new APIs
+	fmt         gofmt (reformat) package sources
+	generate    generate Go files by processing source
+	get         add dependencies to current module and install them
+	install     compile and install packages and dependencies
+	list        list packages or modules
+	mod         module maintenance
+	work        workspace maintenance
+	run         compile and run Go program
+	test        test packages
+	tool        run specified go tool
+	version     print Go version
+	vet         report likely mistakes in packages
+
+Use "go help <command>" for more information about a command.
+
+Additional help topics:
+
+	buildconstraint build constraints
+	buildmode       build modes
+	c               calling between Go and C
+	cache           build and test caching
+	environment     environment variables
+	filetype        file types
+	go.mod          the go.mod file
+	gopath          GOPATH environment variable
+	gopath-get      legacy GOPATH go get
+	goproxy         module proxy protocol
+	importpath      import path syntax
+	modules         modules, module versions, and more
+	module-get      module-aware go get
+	module-auth     module authentication using go.sum
+	packages        package lists and patterns
+	private         configuration for downloading non-public code
+	testflag        testing flags
+	testfunc        testing functions
+	vcs             controlling version control with GOVCS
+
+Use "go help <topic>" for more information about that topic.
+
+Go is a tool for managing Go source code.
+
+Usage:
+
+	go <command> [arguments]
+
+The commands are:
+
+	bug         start a bug report
+	build       compile packages and dependencies
+	clean       remove object files and cached files
+	doc         show documentation for package or symbol
+	env         print Go environment information
+	fix         update packages to use new APIs
+	fmt         gofmt (reformat) package sources
+	generate    generate Go files by processing source
+	get         add dependencies to current module and install them
+	install     compile and install packages and dependencies
+	list        list packages or modules
+	mod         module maintenance
+	work        workspace maintenance
+	run         compile and run Go program
+	test        test packages
+	tool        run specified go tool
+	version     print Go version
+	vet         report likely mistakes in packages
+
+Use "go help <command>" for more information about a command.
+
+Additional help topics:
+
+	buildconstraint build constraints
+	buildmode       build modes
+	c               calling between Go and C
+	cache           build and test caching
+	environment     environment variables
+	filetype        file types
+	go.mod          the go.mod file
+	gopath          GOPATH environment variable
+	gopath-get      legacy GOPATH go get
+	goproxy         module proxy protocol
+	importpath      import path syntax
+	modules         modules, module versions, and more
+	module-get      module-aware go get
+	module-auth     module authentication using go.sum
+	packages        package lists and patterns
+	private         configuration for downloading non-public code
+	testflag        testing flags
+	testfunc        testing functions
+	vcs             controlling version control with GOVCS
+
+Use "go help <topic>" for more information about that topic.
+
+Go is a tool for managing Go source code.
+
+Usage:
+
+	go <command> [arguments]
+
+The commands are:
+
+	bug         start a bug report
+	build       compile packages and dependencies
+	clean       remove object files and cached files
+	doc         show documentation for package or symbol
+	env         print Go environment information
+	fix         update packages to use new APIs
+	fmt         gofmt (reformat) package sources
+	generate    generate Go files by processing source
+	get         add dependencies to current module and install them
+	install     compile and install packages and dependencies
+	list        list packages or modules
+	mod         module maintenance
+	work        workspace maintenance
+	run         compile and run Go program
+	test        test packages
+	tool        run specified go tool
+	version     print Go version
+	vet         report likely mistakes in packages
+
+Use "go help <command>" for more information about a command.
+
+Additional help topics:
+
+	buildconstraint build constraints
+	buildmode       build modes
+	c               calling between Go and C
+	cache           build and test caching
+	environment     environment variables
+	filetype        file types
+	go.mod          the go.mod file
+	gopath          GOPATH environment variable
+	gopath-get      legacy GOPATH go get
+	goproxy         module proxy protocol
+	importpath      import path syntax
+	modules         modules, module versions, and more
+	module-get      module-aware go get
+	module-auth     module authentication using go.sum
+	packages        package lists and patterns
+	private         configuration for downloading non-public code
+	testflag        testing flags
+	testfunc        testing functions
+	vcs             controlling version control with GOVCS
+
+Use "go help <topic>" for more information about that topic.
+
+Go is a tool for managing Go source code.
+
+Usage:
+
+	go <command> [arguments]
+
+The commands are:
+
+	bug         start a bug report
+	build       compile packages and dependencies
+	clean       remove object files and cached files
+	doc         show documentation for package or symbol
+	env         print Go environment information
+	fix         update packages to use new APIs
+	fmt         gofmt (reformat) package sources
+	generate    generate Go files by processing source
+	get         add dependencies to current module and install them
+	install     compile and install packages and dependencies
+	list        list packages or modules
+	mod         module maintenance
+	work        workspace maintenance
+	run         compile and run Go program
+	test        test packages
+	tool        run specified go tool
+	version     print Go version
+	vet         report likely mistakes in packages
+
+Use "go help <command>" for more information about a command.
+
+Additional help topics:
+
+	buildconstraint build constraints
+	buildmode       build modes
+	c               calling between Go and C
+	cache           build and test caching
+	environment     environment variables
+	filetype        file types
+	go.mod          the go.mod file
+	gopath          GOPATH environment variable
+	gopath-get      legacy GOPATH go get
+	goproxy         module proxy protocol
+	importpath      import path syntax
+	modules         modules, module versions, and more
+	module-get      module-aware go get
+	module-auth     module authentication using go.sum
+	packages        package lists and patterns
+	private         configuration for downloading non-public code
+	testflag        testing flags
+	testfunc        testing functions
+	vcs             controlling version control with GOVCS
+
+Use "go help <topic>" for more information about that topic.
+
+Go is a tool for managing Go source code.
+
+Usage:
+
+	go <command> [arguments]
+
+The commands are:
+
+	bug         start a bug report
+	build       compile packages and dependencies
+	clean       remove object files and cached files
+	doc         show documentation for package or symbol
+	env         print Go environment information
+	fix         update packages to use new APIs
+	fmt         gofmt (reformat) package sources
+	generate    generate Go files by processing source
+	get         add dependencies to current module and install them
+	install     compile and install packages and dependencies
+	list        list packages or modules
+	mod         module maintenance
+	work        workspace maintenance
+	run         compile and run Go program
+	test        test packages
+	tool        run specified go tool
+	version     print Go version
+	vet         report likely mistakes in packages
+
+Use "go help <command>" for more information about a command.
+
+Additional help topics:
+
+	buildconstraint build constraints
+	buildmode       build modes
+	c               calling between Go and C
+	cache           build and test caching
+	environment     environment variables
+	filetype        file types
+	go.mod          the go.mod file
+	gopath          GOPATH environment variable
+	gopath-get      legacy GOPATH go get
+	goproxy         module proxy protocol
+	importpath      import path syntax
+	modules         modules, module versions, and more
+	module-get      module-aware go get
+	module-auth     module authentication using go.sum
+	packages        package lists and patterns
+	private         configuration for downloading non-public code
+	testflag        testing flags
+	testfunc        testing functions
+	vcs             controlling version control with GOVCS
+
+Use "go help <topic>" for more information about that topic.
+
+Starting rpc server at 127.0.0.1:9001...
+{"@timestamp":"2022-08-11T20:28:53.180+08:00","caller":"prometheus/agent.go:35","content":"Starting prometheus agent at 0.0.0.0:9091","level":"info"}
+{"@timestamp":"2022-08-11T20:29:53.167+08:00","caller":"stat/usage.go:61","content":"CPU: 0m, MEMORY: Alloc=3.8Mi, TotalAlloc=12.1Mi, Sys=19.8Mi, NumGC=5","level":"stat"}
+{"@timestamp":"2022-08-11T20:29:53.181+08:00","caller":"load/sheddingstat.go:61","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0","level":"stat"}
+{"@timestamp":"2022-08-11T20:30:24.704+08:00","caller":"serverinterceptors/statinterceptor.go:74","content":"127.0.0.1:38194 - /user.User/getUser - {\"id\":\"1\"}","duration":"0.1ms","level":"info","span":"3187f1ed8381bcbc","trace":"28f808c88a28e99d019c323e9b84c932"}
+{"@timestamp":"2022-08-11T20:30:53.168+08:00","caller":"stat/usage.go:61","content":"CPU: 0m, MEMORY: Alloc=5.3Mi, TotalAlloc=18.0Mi, Sys=20.1Mi, NumGC=7","level":"stat"}
+{"@timestamp":"2022-08-11T20:30:53.181+08:00","caller":"load/sheddingstat.go:61","content":"(rpc) shedding_stat [1m], cpu: 0, total: 1, pass: 1, drop: 0","level":"stat"}
+{"@timestamp":"2022-08-11T20:31:24.705+08:00","caller":"stat/metrics.go:210","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.1ms, 90th: 0.1ms, 99th: 0.1ms, 99.9th: 0.1ms","level":"stat"}
+{"@timestamp":"2022-08-11T20:31:53.167+08:00","caller":"stat/usage.go:61","content":"CPU: 0m, MEMORY: Alloc=7.2Mi, TotalAlloc=24.4Mi, Sys=24.1Mi, NumGC=8","level":"stat"}
+{"@timestamp":"2022-08-11T20:31:53.181+08:00","caller":"load/sheddingstat.go:61","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0","level":"stat"}
+{"@timestamp":"2022-08-11T20:32:24.705+08:00","caller":"stat/metrics.go:210","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms","level":"stat"}
+{"@timestamp":"2022-08-11T20:32:53.168+08:00","caller":"stat/usage.go:61","content":"CPU: 0m, MEMORY: Alloc=6.3Mi, TotalAlloc=30.8Mi, Sys=24.1Mi, NumGC=10","level":"stat"}
+{"@timestamp":"2022-08-11T20:32:53.181+08:00","caller":"load/sheddingstat.go:61","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0","level":"stat"}
+{"@timestamp":"2022-08-11T20:33:24.704+08:00","caller":"stat/metrics.go:210","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms","level":"stat"}
+{"@timestamp":"2022-08-11T20:33:53.168+08:00","caller":"stat/usage.go:61","content":"CPU: 0m, MEMORY: Alloc=7.2Mi, TotalAlloc=36.3Mi, Sys=24.1Mi, NumGC=11","level":"stat"}
+{"@timestamp":"2022-08-11T20:33:53.181+08:00","caller":"load/sheddingstat.go:61","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0","level":"stat"}
+{"@timestamp":"2022-08-11T20:34:24.704+08:00","caller":"stat/metrics.go:210","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms","level":"stat"}
+{"@timestamp":"2022-08-11T20:34:53.168+08:00","caller":"stat/usage.go:61","content":"CPU: 0m, MEMORY: Alloc=5.6Mi, TotalAlloc=41.9Mi, Sys=24.1Mi, NumGC=13","level":"stat"}
+{"@timestamp":"2022-08-11T20:34:53.180+08:00","caller":"load/sheddingstat.go:61","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0","level":"stat"}
+{"@timestamp":"2022-08-11T20:35:24.704+08:00","caller":"stat/metrics.go:210","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms","level":"stat"}
