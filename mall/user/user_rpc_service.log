@@ -866,3 +866,11 @@ Starting rpc server at 127.0.0.1:9001...
 {"@timestamp":"2022-08-11T20:34:53.168+08:00","caller":"stat/usage.go:61","content":"CPU: 0m, MEMORY: Alloc=5.6Mi, TotalAlloc=41.9Mi, Sys=24.1Mi, NumGC=13","level":"stat"}
 {"@timestamp":"2022-08-11T20:34:53.180+08:00","caller":"load/sheddingstat.go:61","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0","level":"stat"}
 {"@timestamp":"2022-08-11T20:35:24.704+08:00","caller":"stat/metrics.go:210","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms","level":"stat"}
+{"@timestamp":"2022-08-11T20:35:53.167+08:00","caller":"stat/usage.go:61","content":"CPU: 0m, MEMORY: Alloc=5.0Mi, TotalAlloc=48.3Mi, Sys=24.1Mi, NumGC=15","level":"stat"}
+{"@timestamp":"2022-08-11T20:35:53.181+08:00","caller":"load/sheddingstat.go:61","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0","level":"stat"}
+{"@timestamp":"2022-08-11T20:36:24.705+08:00","caller":"stat/metrics.go:210","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms","level":"stat"}
+{"@timestamp":"2022-08-11T20:36:53.168+08:00","caller":"stat/usage.go:61","content":"CPU: 0m, MEMORY: Alloc=7.1Mi, TotalAlloc=53.8Mi, Sys=24.1Mi, NumGC=16","level":"stat"}
+{"@timestamp":"2022-08-11T20:36:53.180+08:00","caller":"load/sheddingstat.go:61","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0","level":"stat"}
+{"@timestamp":"2022-08-11T20:37:24.704+08:00","caller":"stat/metrics.go:210","content":"(user.rpc) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms","level":"stat"}
+{"@timestamp":"2022-08-11T20:37:53.168+08:00","caller":"stat/usage.go:61","content":"CPU: 0m, MEMORY: Alloc=7.2Mi, TotalAlloc=57.7Mi, Sys=24.1Mi, NumGC=17","level":"stat"}
+{"@timestamp":"2022-08-11T20:37:53.181+08:00","caller":"load/sheddingstat.go:61","content":"(rpc) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0","level":"stat"}

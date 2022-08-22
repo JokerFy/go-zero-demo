@@ -17,3 +17,9 @@ Starting server at 0.0.0.0:8000...
 {"@timestamp":"2022-08-11T20:35:24.250+08:00","caller":"stat/usage.go:61","content":"CPU: 0m, MEMORY: Alloc=3.3Mi, TotalAlloc=33.1Mi, Sys=20.6Mi, NumGC=14","level":"stat"}
 {"@timestamp":"2022-08-11T20:35:24.265+08:00","caller":"load/sheddingstat.go:61","content":"(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0","level":"stat"}
 {"@timestamp":"2022-08-11T20:35:24.705+08:00","caller":"stat/metrics.go:210","content":"(order) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms","level":"stat"}
+{"@timestamp":"2022-08-11T20:36:24.251+08:00","caller":"stat/usage.go:61","content":"CPU: 0m, MEMORY: Alloc=5.1Mi, TotalAlloc=39.6Mi, Sys=20.6Mi, NumGC=16","level":"stat"}
+{"@timestamp":"2022-08-11T20:36:24.265+08:00","caller":"load/sheddingstat.go:61","content":"(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0","level":"stat"}
+{"@timestamp":"2022-08-11T20:36:24.705+08:00","caller":"stat/metrics.go:210","content":"(order) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms","level":"stat"}
+{"@timestamp":"2022-08-11T20:37:24.249+08:00","caller":"stat/usage.go:61","content":"CPU: 0m, MEMORY: Alloc=4.4Mi, TotalAlloc=46.0Mi, Sys=20.6Mi, NumGC=18","level":"stat"}
+{"@timestamp":"2022-08-11T20:37:24.265+08:00","caller":"load/sheddingstat.go:61","content":"(api) shedding_stat [1m], cpu: 0, total: 0, pass: 0, drop: 0","level":"stat"}
+{"@timestamp":"2022-08-11T20:37:24.706+08:00","caller":"stat/metrics.go:210","content":"(order) - qps: 0.0/s, drops: 0, avg time: 0.0ms, med: 0.0ms, 90th: 0.0ms, 99th: 0.0ms, 99.9th: 0.0ms","level":"stat"}
